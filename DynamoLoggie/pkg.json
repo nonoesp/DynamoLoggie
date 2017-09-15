@@ -1,0 +1,20 @@
+{
+    "license":"MIT",
+    "file_hash":null,
+    "name":"DynamoLoggie",
+    "version":"1.0.0",
+    "description":"A logger for Dynamo.",
+    "group":"DynamoLoggie",
+    "keywords":[ "dynamo","loggie", "logger"],
+    "dependencies":[],
+    "contents":"Event logger.",
+    "engine_version":"1.0.0",
+    "engine":"dynamo",
+    "engine_metadata":"",
+    "site_url":"",
+    "repository_url":"",
+    "contains_binaries":true,
+    "node_libraries":[
+     "DynamoLoggie, Version=1.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+ }
